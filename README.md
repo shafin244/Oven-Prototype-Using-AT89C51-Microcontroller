@@ -22,10 +22,12 @@ A fully functional interactive oven control system prototype designed for Jurgen
 
 ## 📹 Demo Video
 
+*Click the image above to watch the full demonstration*
+👇👇👇
 
 [![Watch Demo](images/video_thumbnail.png)](https://www.youtube.com/watch?v=-e3XZdpIp1c)
 
-*Click the image above to watch the full demonstration*
+
 
 
 ## 🛠️ Hardware Components
