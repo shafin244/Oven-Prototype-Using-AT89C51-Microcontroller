@@ -22,12 +22,29 @@ A fully functional interactive oven control system prototype designed for Jurgen
 
 ## 📹 Demo Video
 
-*Click the image above to watch the full demonstration*
+*Click the image below to watch the full demonstration*
 👇👇👇
 
 [![Watch Demo](images/video_thumbnail.png)](https://www.youtube.com/watch?v=-e3XZdpIp1c)
 
 
+
+## 🖼️ Screenshots
+
+### Circuit Simulation
+![Circuit Diagram](Proteus/circuit_schematic.png)
+
+### Working System
+<table>
+  <tr>
+    <td><img src="Demo/screenshots/idle_state.png" width="300"/><br/><i>Idle State</i></td>
+    <td><img src="Demo/screenshots/countdown.png" width="300"/><br/><i>Countdown Active</i></td>
+  </tr>
+  <tr>
+    <td><img src="Demo/screenshots/lcd_facts.png" width="300"/><br/><i>LCD Facts Display</i></td>
+    <td><img src="Demo/screenshots/completion.png" width="300"/><br/><i>Completion Alert</i></td>
+  </tr>
+</table>
 
 
 ## 🛠️ Hardware Components
@@ -140,24 +157,6 @@ A fully functional interactive oven control system prototype designed for Jurgen
 
 
 
-
-## 🖼️ Screenshots
-
-### Circuit Simulation
-![Circuit Diagram](Proteus/circuit_schematic.png)
-
-### Working System
-<table>
-  <tr>
-    <td><img src="Demo/screenshots/idle_state.png" width="300"/><br/><i>Idle State</i></td>
-    <td><img src="Demo/screenshots/countdown.png" width="300"/><br/><i>Countdown Active</i></td>
-  </tr>
-  <tr>
-    <td><img src="Demo/screenshots/lcd_facts.png" width="300"/><br/><i>LCD Facts Display</i></td>
-    <td><img src="Demo/screenshots/completion.png" width="300"/><br/><i>Completion Alert</i></td>
-  </tr>
-</table>
-
 ## 🔧 Technical Specifications
 
 - **Microcontroller**: AT89C51 (8-bit, 8051 architecture)
@@ -190,17 +189,14 @@ Contributions are welcome! If you'd like to improve this project:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Shafin Ahmed**
+**SHAFIN IBNUL MOHASIN**
 
 - GitHub: [@shafin244](https://github.com/shafin244)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/shafin-ibnul-mohasin/]
+- Email: shafinibnulmohasin@gmail.com
 
 ## 🙏 Acknowledgments
 
