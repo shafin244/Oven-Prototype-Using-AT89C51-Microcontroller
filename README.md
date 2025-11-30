@@ -18,6 +18,16 @@ A fully functional interactive oven control system prototype designed for Jurgen
 - **Emergency Stop Function**: Immediate system halt capability for safety
 - **User-Friendly Interface**: Intuitive keypad control with Start/Stop buttons
 
+
+
+## 📹 Demo Video
+
+
+[![Watch Demo](images/video_thumbnail.png)](https://www.youtube.com/watch?v=-e3XZdpIp1c)
+
+*Click the image above to watch the full demonstration*
+
+
 ## 🛠️ Hardware Components
 
 - **Microcontroller**: AT89C51 (Clock frequency: 13.00021244 MHz)
@@ -126,14 +136,6 @@ A fully functional interactive oven control system prototype designed for Jurgen
 | C | CLEAR |
 | D | ENTER |
 
-
-
-## 📹 Demo Video
-
-
-[![Watch Demo](images/video_thumbnail.png)](https://www.youtube.com/watch?v=-e3XZdpIp1c)
-
-*Click the image above to watch the full demonstration*
 
 
 
