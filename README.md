@@ -36,12 +36,12 @@ A fully functional interactive oven control system prototype designed for Jurgen
 ### Working System
 <table>
   <tr>
-    <td><img src="Demo/ss1.png" width="300"/><br/><i>Oven running (60<Timer<300)/</i></td>
+<td><img src="Demo/ss1.png" width="300"/><br/><i>Oven running (60&lt;Timer&lt;300)</i></td>
     <td><img src="Demo/ss2.png" width="300"/><br/><i>Oven Not Started (Timer>300)</i></td>
   </tr>
   <tr>
     <td><img src="Demo/ss3.png" width="300"/><br/><i>Oven Not Started (Timer<5)</i></td>
-    <td><img src="Demo/ss4.png" width="300"/><br/><i>Oven Showng Constant msg (5<Timer <60)/</i></td>
+<td><img src="Demo/ss4.png" width="300"/><br/><i>Oven Showing Constant msg (5&lt;Timer&lt;60)</i></td>
   </tr>
 </table>
 
