@@ -32,17 +32,16 @@ A fully functional interactive oven control system prototype designed for Jurgen
 ## 🖼️ Screenshots
 
 ### Circuit Simulation
-![Circuit Diagram](Proteus/circuit_schematic.png)
 
 ### Working System
 <table>
   <tr>
-    <td><img src="Demo/screenshots/idle_state.png" width="300"/><br/><i>Idle State</i></td>
-    <td><img src="Demo/screenshots/countdown.png" width="300"/><br/><i>Countdown Active</i></td>
+    <td><img src="Demo/ss1.png" width="300"/><br/><i>Idle State</i></td>
+    <td><img src="Demo/ss2.png" width="300"/><br/><i>Countdown Active</i></td>
   </tr>
   <tr>
-    <td><img src="Demo/screenshots/lcd_facts.png" width="300"/><br/><i>LCD Facts Display</i></td>
-    <td><img src="Demo/screenshots/completion.png" width="300"/><br/><i>Completion Alert</i></td>
+    <td><img src="Demo/ss3.png" width="300"/><br/><i>LCD Facts Display</i></td>
+    <td><img src="Demo/ss4.png" width="300"/><br/><i>Completion Alert</i></td>
   </tr>
 </table>
 
