@@ -126,13 +126,16 @@ A fully functional interactive oven control system prototype designed for Jurgen
 | C | CLEAR |
 | D | ENTER |
 
+
+
 ## 📹 Demo Video
 
-Watch the complete working demonstration:
 
-[![Demo Video](images/video_thumbnail.png)](Demo/demo_video.mp4)
+[![Watch Demo](https://img.youtube.com/vi/-e3XZdpIp1c/maxresdefault.jpg)](https://www.youtube.com/watch?v=-e3XZdpIp1c)
 
-*Click to view the project in action*
+*Click the image above to watch the full demonstration*
+
+
 
 ## 🖼️ Screenshots
 
