@@ -1,7 +1,7 @@
 # Microcontroller-Based Interactive Oven Control System with Real-Time Timer Operations and Emergency Features Using AT89C51
 Developed a smart oven prototype using AT89C51 microcontroller with keypad input, 7-segment display countdown, LCD messaging, and emergency stop functionality.
 
-![Project Banner](images/banner.png) <!-- Add a banner image of your circuit -->
+![Project Banner](images/main.png) <!-- Add a banner image of your circuit -->
 
 ## 📋 Project Overview
 
